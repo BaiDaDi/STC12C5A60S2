@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\STC12巡线小车" 
+PRINT(".\Listings\STC12巡线小车.m51") RAMSIZE(256) 
